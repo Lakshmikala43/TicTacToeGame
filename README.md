@@ -48,6 +48,7 @@ Copy
 Edit
 git clone https://github.com/Lakshmikala43/TicTacToeGame/blob/main/index.html
 Open index.html in your browser.
+https://github.com/Lakshmikala43/TicTacToeGame/blob/main/script.js open in your browser.
 
 📜 License
 This project is licensed under the MIT License — feel free to use and modify it.
