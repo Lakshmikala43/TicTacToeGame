@@ -46,7 +46,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/Lakshmikala43/tic-tac-toe.git
 Open index.html in your browser.
 
 📜 License
